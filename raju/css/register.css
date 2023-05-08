@@ -1,0 +1,11 @@
+h1{color: red;
+background-color: aqua;500px }
+label{color: hsl(0, 0%, 5%);
+    background-attachment: fixed;
+}
+input{color: brown;
+
+background-color: rgb(110, 183, 183);
+}
+body{background-image: -webkit-image-set;
+background-color: blueviolet;}
